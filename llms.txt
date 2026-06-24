@@ -1,0 +1,51 @@
+# Body Harness: Pengertian, Harga, Cara Beli — Spanset Indonesia
+> Panduan teknis lengkap body harness untuk pekerja di ketinggian, mencakup jenis, standar sertifikasi, harga produk SpanSet, dan cara memilih yang tepat.
+
+## Site
+- URL: https://harness.wasmer.app/
+- Language: id-ID
+- Publisher: Spanset Indonesia — https://www.spanset.com/id-id/
+- Author: Fajar Edrie, SEO Specialist & Technical Content Writer
+- Last Updated: 2026-06-24
+
+## Content Summary
+Artikel ini membahas body harness sebagai alat pelindung diri (APD) wajib untuk pekerjaan di ketinggian di Indonesia. Topik utama meliputi:
+- Definisi dan fungsi body harness
+- Regulasi wajib (Permenaker No. 8 Tahun 2010)
+- Jenis-jenis harness berdasarkan fungsi: fall arrest, work positioning, confined space, rescue/evacuation
+- Bagian-bagian komponen harness (webbing, buckle, ring D)
+- Standar dan sertifikasi: EN 361:2002, ANSI Z359.11, SNI ISO 10333
+- Suspension trauma dan batas waktu tergantung (5–30 menit)
+- Kisaran harga produk SpanSet di Indonesia
+- Cara memilih dan membeli body harness yang sesuai
+
+## Products Mentioned
+- Body Harness 1Poin SpanSet — Safety Harness — IDR 1.090.600
+- Body Harness 2Poin SpanSet — Safety Harness — IDR 1.203.300
+- Body Harness 3Poin SpanSet — Confined Spaces Harness — IDR 1.447.600
+- Body Harness 4Poin SpanSet — Positioning Harness — IDR 3.653.300
+- Body Harness 5Poin SpanSet — Suspension Harness — IDR 4.469.850
+
+## Key Standards Referenced
+- EN 361:2002 (Eropa, diadopsi luas di Asia) — drop test dummy 100 kg dari 4 meter
+- ANSI Z359.11 (Amerika Serikat) — kapasitas beban tinggi
+- SNI ISO 10333 (Indonesia) — sistem penahan jatuh pribadi
+
+## FAQ
+Q: Apa perbedaan body harness dan safety belt?
+A: Safety belt hanya melingkari pinggang, sedangkan body harness menyalurkan gaya hentakan ke bahu, dada, dan paha sekaligus.
+
+Q: Berapa lama body harness bisa dipakai sebelum harus diganti?
+A: Tergantung intensitas penggunaan dan hasil inspeksi rutin. Webbing terkelupas, sobek, atau buckle macet adalah tanda harness harus segera diganti.
+
+Q: Apakah body harness murah tetap aman dipakai?
+A: Keamanan ditentukan oleh kesesuaian dengan standar EN 361, ANSI Z359.11, atau SNI ISO 10333, bukan oleh harga.
+
+## Pages
+- https://harness.wasmer.app/ — Halaman utama (artikel lengkap)
+- https://harness.wasmer.app/sitemap-index.xml — Sitemap
+- https://harness.wasmer.app/llms.txt — File ini
+
+## Optional
+- Robots: https://harness.wasmer.app/robots.txt
+- Sitemap: https://harness.wasmer.app/sitemap-index.xml
