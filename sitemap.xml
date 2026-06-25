@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ══════════════════════════════════════════════════════════════
+       Sitemap for: https://harness.wasmer.app/
+       Publisher  : SpanSet Indonesia
+       Author     : Fajar Edrie
+       Generated  : 2026-06-25
+       ══════════════════════════════════════════════════════════════ -->
+
+  <!-- HOMEPAGE / MAIN ARTICLE -->
+  <url>
+    <loc>https://harness.wasmer.app/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Article Hero Image -->
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/fajaredrie/harness/refs/heads/main/body-harness-sesuai-jenis-pekerjaan.webp</image:loc>
+      <image:title>Body Harness untuk Bekerja di Ketinggian</image:title>
+      <image:caption>Pekerja konstruksi memakai full body harness lengkap dengan lanyard saat bekerja di ketinggian</image:caption>
+    </image:image>
+
+    <!-- Inspection / Parts Image -->
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/fajaredrie/harness/refs/heads/main/spanSet-apd-ketinggian.webp</image:loc>
+      <image:title>Pemeriksaan Body Harness Sebelum Digunakan</image:title>
+      <image:caption>Teknisi memeriksa ring D dan webbing pada full body harness sebelum digunakan di lapangan</image:caption>
+    </image:image>
+
+    <!-- Detail / Certification Label Image -->
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/fajaredrie/harness/refs/heads/main/spanset-harness-detail.webp</image:loc>
+      <image:title>Label Standar EN 361 pada Body Harness</image:title>
+      <image:caption>Label kapasitas dan sertifikasi EN 361 pada full body harness SpanSet Indonesia</image:caption>
+    </image:image>
+
+    <!-- hreflang: Indonesian only -->
+    <xhtml:link rel="alternate" hreflang="id" href="https://harness.wasmer.app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://harness.wasmer.app/"/>
+  </url>
+
+</urlset>
